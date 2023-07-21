@@ -1,0 +1,24 @@
+{
+  "name": "xiuer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.64.0",
+    "vue": "^3.3.4",
+    "vuedraggable": "^4.1.0"
+  },
+  "dependencies": {
+    "@xiuer/layout-editor": "workspace:^"
+  },
+  "peerDependencies": {
+    "vue": "^3.3.4"
+  }
+}
